@@ -1,0 +1,9 @@
+/* Set the text direction to right-to-left */
+body {
+  direction: rtl;
+}
+
+/* Align elements to the right */
+.button {
+  float: right;
+}
